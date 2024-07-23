@@ -1,0 +1,31 @@
+html {
+  background-color: #00539f;
+}
+
+h1{
+font-family: Arial;
+color: white;
+text-align: center;
+background-color: blue;
+}
+
+p, li, h3 {
+    color: white;
+    line-height: 1.5;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+img {
+display: block;
+margin: 0 auto;
+}
+
+body {
+  width: 740px;
+  margin: 0 auto;
+  background-color: black;
+  padding: 100px;
+  border: 5px solid yellow;
+}
